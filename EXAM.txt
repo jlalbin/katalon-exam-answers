@@ -83,7 +83,8 @@ Which best practices have you used? Describe them in the table below:
 Best practice  Example
 -------------	 -------
 
-
+Data driven approach => list of employee
+Call Test Case => reuse test case 
 
 EXERCISE 4 - Cleanup / efficiency
 
